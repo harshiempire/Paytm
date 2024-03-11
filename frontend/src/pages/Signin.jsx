@@ -9,7 +9,7 @@ function Signin() {
       <div className="border border-gray-400 p-4 w-96 drop-shadow rounded">
         <h1 className="text-4xl font-bold text-center">Sign in</h1>
         <InputBox placeholder={"Email"} label={"Email"} />
-        <InputBox placeholder={"password"} label={"Password"} />
+        <InputBox placeholder={"Password"} label={"Password"} />
         <div className="my-2">
           <Button label={"Sign up"} />
         </div>

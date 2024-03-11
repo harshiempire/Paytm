@@ -11,7 +11,7 @@ function Signup() {
         <InputBox placeholder={"John"} label={"First Name"} />
         <InputBox placeholder={"Doe"} label={"Last Name"} />
         <InputBox placeholder={"Email"} label={"Email"} />
-        <InputBox placeholder={"password"} label={"Password"} />
+        <InputBox placeholder={"Password"} label={"Password"} />
         <div className="my-2">
           <Button label={"Sign up"} />
         </div>
