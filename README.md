@@ -88,5 +88,3 @@ Access the app in your browser at [http://localhost:3000](http://localhost:3000)
 
 This code is for educational purposes only and is not intended for production use without significant modifications and security enhancements.
 ```
-
-This formatted version should be easier to copy and paste into your README.md file.
