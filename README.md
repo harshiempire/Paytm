@@ -1,6 +1,3 @@
-Certainly! Below is the README.md formatted version of the provided text:
-
-```markdown
 # Basic and Low Level Payments App
 
 This is a basic payments app that demonstrates fundamental concepts to consider when building such an application. While it's not production-ready, it serves as a starting point for learning and experimentation.
